@@ -8,4 +8,4 @@ def keisan(a, b):
     else:
         kekka="不合格"
     return kekka
-print(keisan(15, 5))
+print(keisan(80, 5))
