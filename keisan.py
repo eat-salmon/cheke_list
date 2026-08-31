@@ -3,9 +3,9 @@ def keisan(a, b):
         result =a-b
     else:
         result =b-a
-    if result>10:
+    if result>30:
         kekka="合格"
     else:
         kekka="不合格"
     return kekka
-keisan(15, 5)
+print(keisan(15, 5))
